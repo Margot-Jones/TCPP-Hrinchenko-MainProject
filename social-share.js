@@ -12,7 +12,7 @@ SocialShare.btns = [
 		color: "#444",
 	},
 	{
-		social: "facebook",
+		social: "_facebook_",
 		link: "https://www.facebook.com/sharer.php?u=",
 		iconClass: "fab fa-facebook-square",
 		content: " Facebook",
@@ -20,7 +20,7 @@ SocialShare.btns = [
 		color: "#3b5998",
 	},
 	{
-		social: "twitter",
+		social: "_twitter_",
 		link: "https://twitter.com/share?url=",
 		iconClass: "fab fa-twitter",
 		content: " Twitter",
@@ -28,7 +28,7 @@ SocialShare.btns = [
 		color: "#1da1f2",
 	},
 	{
-		social: "pinterest",
+		social: "_pinterest_",
 		link: "https://pinterest.com/pin/create/bookmarklet/?url=",
 		iconClass: "fab fa-pinterest",
 		content: " Pinterest",
