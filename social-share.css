@@ -1,9 +1,9 @@
 .ss-btn{
-	padding: 8px 12px;
+	padding: 4px 12px;
 	background: #888;
 	color: #fff !important;
 	border-radius: 3px;
-	margin: 4px;
+	margin: 6px;
 	display: inline-block;
 	cursor: pointer;
 	text-align: center;
@@ -39,7 +39,7 @@
 
 .ss-circle .ss-btn{
 	border-radius: 50%;
-	min-width: 40px;
+	min-width: 45px;
 }
 
 /*FLAT BUTTON*/
